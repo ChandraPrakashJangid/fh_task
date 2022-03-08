@@ -1,0 +1,4 @@
+#Tue Mar 08 10:54:57 IST 2022
+base.0=/Users/chandra-m1/Developer/fh_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
